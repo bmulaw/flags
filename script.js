@@ -13,7 +13,6 @@ function setUpFlags(){
             console.log(flagsAndCountry)
             getRandomCountry()
         })
- 
 }
 
 
